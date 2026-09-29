@@ -29,7 +29,7 @@ Backend Developer (Java / Spring) — 2년간 내비게이션·모바일 SW 운�
 ## Featured Projects
 
 ### [amwohaji-backend](https://github.com/WooGeunHyeok/amwohaji-backend)
-여행 코스 추천 서비스 "아뭐하지"의 백엔드/배치 포트폴리오. 한국관광콘텐츠랩 공모전 출품작 (최종 심사 2026.10.28).
+여행 코스 추천 서비스 "아뭐하지"의 백엔드/배치 포트폴리오. 한국관광콘텐츠랩 공모전 출품작 (제출 완료 2026.09.21, 최종 심사 2026.10.28 예정).
 - 공공데이터(TourAPI) 연동 Batch, 커뮤니티 게시글·댓글·좋아요 REST API, JWT 인증
 - 실 서비스 배포: [원스토어 '아뭐하지'](https://m.onestore.co.kr/v2/ko-kr/app/0001008914)
 - `Java` `Spring Boot` `Spring Batch` `Spring Data JPA` `MyBatis` `MySQL` `WebClient` `JWT`
@@ -38,7 +38,3 @@ Backend Developer (Java / Spring) — 2년간 내비게이션·모바일 SW 운�
 내비게이션 이슈 로그를 소스코드 흐름과 매칭해 원인 파악을 지원하는 개인 프로젝트. Batch(소스코드 딕셔너리 구축) → Backend(업로드/파싱/분석 API) → Front(결과 시각화) 3개 모듈을 직접 설계·구현.
 - Android logcat 파싱 및 3계층 자동 분류, 함수 호출 흐름 트리 생성, 사전조건 체크리스트 자동 검증
 - `Java 21` `Spring Boot` `Spring Batch` `Spring Data JPA` `MariaDB` `React` `Vitest`
-
-## GitHub Stats
-
-![Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooGeunHyeok&show_icons=true&theme=default)
